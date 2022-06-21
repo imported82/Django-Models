@@ -12,3 +12,6 @@ Create a new Django project. Use your Zuriboard Student ID as the name of the pr
 Create a new application using the Django startapp command. The app should be called blog.
 
 Add the blog app to the main_projects INSTALLED_APPS.
+
+
+published Github pages- https://imported82.github.io/Django-Models/
